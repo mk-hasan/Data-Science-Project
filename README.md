@@ -1,5 +1,5 @@
 # Data-Science-Project
-*** This repo conains few data science projects what i have done job various job test and for practice ***
+**This repo conains few data science projects what i have done job various job test and for practice**
 ## Machine Learning
 ## Neural Network
 ## Python
@@ -30,7 +30,7 @@ The data contains the following fields:
 |pricepercent| The unit price percentile compared to the rest of the set.|
 |winpercent| The overall win percentage according to 269,000 matchups.|
 
- - *** I did some descriptive statistical analysis using some different figures and comment ***
- - *** For predictive analysis i used Random Forest Regresor with K Cross Fold validation and Grid Search of the parameters ***
- - *** For clustering analysis, i used Self Organizing Map(SOM) to cluster all the data points and mak some predictions using SOM.***
+ - **I did some descriptive statistical analysis using some different figures and comment**
+ - **For predictive analysis i used Random Forest Regresor with K Cross Fold validation and Grid Search of the parameters**
+ - **For clustering analysis, i used Self Organizing Map(SOM) to cluster all the data points and mak some predictions using SOM**
  
